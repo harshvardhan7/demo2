@@ -1,0 +1,9 @@
+/home/lab-env/terraform/demo2/.terraform/*
+.terraform/providers/registry.terraform.io/hashicorp/aws/3.70.0/linux_amd64/terraform-provider-aws_v3.70.0_x5
+**/.terraform/*
+*/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraformrc
+terraform.rc
